@@ -1,2 +1,2 @@
 # Bisection-Method
-Bisection Method Code using MATLAB
+Bisection Method, one of the most famous method in mathematics is used to find the exact roots of a polynomial function.The attached file in this repository contains the MATLAB code for the bisection method, where we have the polynomial f(x) = x^3 - 7.14x^2 + 11.84x - 5.7, and we use bisection method to find its roots. We assume that the roots lies in between [a,b] = [4.2,5.12] and with tolerance set to 1*10^-6 , we start the while loop for performing iterations.
